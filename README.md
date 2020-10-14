@@ -5,6 +5,8 @@ https://code.earthengine.google.com/?scriptPath=users%2Fzhaoweiyingnla%2Fdefault
 
 It allows you to download the time series noisy, denoised images, different kinds of time series over your interest point.
 
+You can also selet the Sentinel-1 images acquired through the same orbit.
+
 Since the Sentinel-1 data is save in int format in Google Earth Engine (GEE), detailed information may be lost.
 
 1)Temporal average image:
